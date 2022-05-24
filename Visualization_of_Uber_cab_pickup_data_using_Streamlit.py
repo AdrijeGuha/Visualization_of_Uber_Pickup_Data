@@ -84,7 +84,7 @@ def main():
     # SETTING PAGE CONFIG TO WIDE MODE
     st.set_page_config(
                         page_title = "Visualization of Uber cab pickup data using Streamlit",
-                        page_icon = "image/taxi_image.jpg",
+                        page_icon = "./image/taxi_image.jpg",
                         layout = "wide",
                         menu_items = {
                                     'About': "# Visualization of Uber cab pickup data using Streamlit\n"+

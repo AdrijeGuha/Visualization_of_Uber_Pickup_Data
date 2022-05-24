@@ -14,7 +14,7 @@ Our main goal is to analyse the busiest routes at different time of a day and th
 
 ----
 ## Output
-![output](image/output.png)
+![output](./image/output.png)
 After creating the dataset for Indian city and using data analytics and visualization methods to extract some useful information from that raw data, we can conclude that the real-life implementation of the same could help making Uber cabs more accessible to the customer.
 
 ----
