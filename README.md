@@ -10,7 +10,7 @@ Talking about our Uber data analysis project, data storytelling is an important 
 ----
 ## Working
 Our work is to first analyse the number of uber pickups in a month and its density and then visualize it using [_streamlit_](https://streamlit.io/), [_pydeck_](https://pydeck.gl/) and [_altair_](https://altair-viz.github.io/).  
-Our main goal is to analyse the busiest routes at different time of a day and the variation in the number of pickups at certain important landmarks such as __Raja Bhoj Airport__, __Rani Kamlapati Railway Station__ and __Bhopal Junction Railway Station__. 
+Our main goal is to analyse the busiest routes at different time of the day and the variation in the number of pickups at certain important landmarks such as __Raja Bhoj Airport__, __Rani Kamlapati Railway Station__ and __Bhopal Junction Railway Station__. 
 
 ----
 ## Output
