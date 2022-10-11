@@ -5,8 +5,10 @@ import numpy as np
 import altair as alt
 import pydeck as pdk
 
+
 # INITIALIZING VARIABLES
 data = pd.DataFrame()
+
 
 # LOAD DATA ONCE
 @st.experimental_singleton
