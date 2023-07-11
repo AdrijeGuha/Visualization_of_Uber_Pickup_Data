@@ -1,5 +1,5 @@
 # **Visualization of Uber Pickup Data in Bhopal, Madhya Pradesh**
-![uber](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.rEgxISHWcO7ik1iG3oUrQQHaE5%26pid%3DApi&f=1&ipt=c4429359b4ae9b4c68e7342dd32cebdac6310d492a41f330070b3d4de50c063e&ipo=images)
+  ![uber](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.rEgxISHWcO7ik1iG3oUrQQHaE5%26pid%3DApi&f=1&ipt=c4429359b4ae9b4c68e7342dd32cebdac6310d492a41f330070b3d4de50c063e&ipo=images)
 
 Sometimes it’s easy to give up on someone else’s driving. This is less stress, more mental space and one uses that time to do other things. Yes, that’s one of the ideas that grew and later became the idea behind Uber. With its 93 million monthly active users and _3.9 million_ active drivers, Uber completes _18.7 million rides_ each day globally. If seen the right way, this is a large amount of data which could be processed to extract some really useful information.
 
